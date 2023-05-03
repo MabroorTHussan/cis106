@@ -1,7 +1,7 @@
 ---
 Name: Mabroor Hussan
 Semester: Spring 23
-Course CIS106
+Course: CIS106
 ---
 
 # Lab 5
